@@ -15,6 +15,6 @@ It is recommended that this program be ran on an isolated machine.
 5. Refer to answer.txt in the downloaded file system to check your answers. 
 
 ### This is a dynamic script that can be ran multiple times, which will achieve different results so it can be reused!
-The script runs a Reconnaissance task, 2 expoloitation functions and 2 post exploitation modules. 
+The script runs a reconnaissance task, 2 expoloitation functions and 2 post exploitation modules. 
  
 ### Additional Functions Welcome. 
