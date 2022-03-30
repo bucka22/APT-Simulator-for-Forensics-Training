@@ -2,8 +2,8 @@
 ## Dissertation Project
 
 The purpose of the research is to develop a program which aims to develop users' skills in digital forensics.  
-The research project is being conducted by Amelia Buck at Coventry University. 
-You can opt out at any stage by closing this program. 
+The research project is being conducted by Amelia Buck at Coventry University, supervised by Terry Richards. 
+You can opt out at any stage.
 
 It is recommended that this program be ran on an isolated machine.
 
@@ -18,3 +18,8 @@ It is recommended that this program be ran on an isolated machine.
 The script runs a reconnaissance task, 2 expoloitation functions and 2 post exploitation modules. 
  
 ### Additional Functions Welcome. 
+
+### Contact emails:
+bucka2@coventry.ac.uk
+
+ac6860@coventry.ac.uk
